@@ -1,0 +1,21 @@
+c:\users\lyric\documents\visual studio 2015\Projects\automaticPetting\automaticPetting\bin\Release\automaticPetting.dll
+c:\users\lyric\documents\visual studio 2015\Projects\automaticPetting\automaticPetting\bin\Release\automaticPetting.pdb
+c:\users\lyric\documents\visual studio 2015\Projects\automaticPetting\automaticPetting\bin\Release\Microsoft.Xna.Framework.dll
+c:\users\lyric\documents\visual studio 2015\Projects\automaticPetting\automaticPetting\bin\Release\Microsoft.Xna.Framework.GamerServices.dll
+c:\users\lyric\documents\visual studio 2015\Projects\automaticPetting\automaticPetting\bin\Release\Microsoft.Xna.Framework.GamerServicesExtensions.dll
+c:\users\lyric\documents\visual studio 2015\Projects\automaticPetting\automaticPetting\bin\Release\Microsoft.Xna.Framework.Input.Touch.dll
+c:\users\lyric\documents\visual studio 2015\Projects\automaticPetting\automaticPetting\bin\Release\Microsoft.Xna.Framework.MediaLibraryExtensions.dll
+c:\users\lyric\documents\visual studio 2015\Projects\automaticPetting\automaticPetting\bin\Release\Stardew Valley.exe
+c:\users\lyric\documents\visual studio 2015\Projects\automaticPetting\automaticPetting\bin\Release\StardewModdingAPI.exe
+c:\users\lyric\documents\visual studio 2015\Projects\automaticPetting\automaticPetting\bin\Release\xTile.dll
+c:\users\lyric\documents\visual studio 2015\Projects\automaticPetting\automaticPetting\bin\Release\Lidgren.Network.dll
+c:\users\lyric\documents\visual studio 2015\Projects\automaticPetting\automaticPetting\bin\Release\Microsoft.Xna.Framework.xml
+c:\users\lyric\documents\visual studio 2015\Projects\automaticPetting\automaticPetting\bin\Release\Microsoft.Xna.Framework.GamerServices.xml
+c:\users\lyric\documents\visual studio 2015\Projects\automaticPetting\automaticPetting\bin\Release\Microsoft.Xna.Framework.GamerServicesExtensions.xml
+c:\users\lyric\documents\visual studio 2015\Projects\automaticPetting\automaticPetting\bin\Release\Microsoft.Xna.Framework.Input.Touch.xml
+c:\users\lyric\documents\visual studio 2015\Projects\automaticPetting\automaticPetting\bin\Release\Microsoft.Xna.Framework.MediaLibraryExtensions.xml
+c:\users\lyric\documents\visual studio 2015\Projects\automaticPetting\automaticPetting\bin\Release\xTile.pdb
+c:\users\lyric\documents\visual studio 2015\Projects\automaticPetting\automaticPetting\bin\Release\Lidgren.Network.pdb
+c:\users\lyric\documents\visual studio 2015\Projects\automaticPetting\automaticPetting\obj\Release\automaticPetting.dll
+c:\users\lyric\documents\visual studio 2015\Projects\automaticPetting\automaticPetting\obj\Release\automaticPetting.pdb
+c:\users\lyric\documents\visual studio 2015\Projects\automaticPetting\automaticPetting\obj\Release\automaticPetting.csprojResolveAssemblyReference.cache
